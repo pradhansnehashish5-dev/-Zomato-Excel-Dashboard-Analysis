@@ -1,2 +1,2 @@
 # -Zomato-Excel-Dashboard-Analysis
-Data Analysis and Reporting: Advanced Excel (Pivot Tables, LOOKUP Functions, Conditional Formatting), Excel Macros, and VBA.
+An interactive Excel dashboard analyzing Zomato restaurant data using Pivot Tables and Charts, LOOKUP Functions and Conditional Formatting.
