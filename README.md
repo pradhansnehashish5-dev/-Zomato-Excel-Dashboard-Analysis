@@ -36,4 +36,5 @@ This project focuses on the global presence of Zomato and the availability of it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # - Based on the report Insights, here are the results:
 The city-wise distribution of Zomato restaurant listings suggests a high prevalence in metropolitan areas. New Delhi dominates Zomato's restaurant listings followed by the heavily saturated and competitive meal delivery sector in the city. Gurgaon and Noida also have a substantial presence, perhaps due to their proximity and urban density. All other cities, including Lucknow, Guwahati, Ghaziabad, Faridabad, Bhubaneswar, Amritsar, and Ahmedabad, have 21-25 listings apiece. The dramatic decline in listings for other cities suggests either limited Zomato penetration or smaller food ecosystems. These cities could be potential growth markets for Zomato, particularly if local marketing and onboarding initiatives are supported.
+
 ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture1.png)
