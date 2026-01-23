@@ -14,3 +14,25 @@ This project focuses on the global presence of Zomato and the availability of it
 - **Data Visualization:** Constructed several major insights to extract vital information from a Pivot Chart.
 - **Enhanced Formatting:** Changed the format of the charts using Format Painter.
 - **Dashboard Creation:** I created a meaningful dashboard by combining all of the necessary charts and incorporating additional features like as Slicers, KPI and Insights.
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # - Project KPI:
+ In this Project, I have calculated the total numbers of worldwide restaurant as KPI, i.e. 9551 out of which India has the maximum number of restaurants with 149k votes and the presenece in 15 votes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# - Important Highlights derived from the project:
+
+1. Which cities have the most restaurants listed on Zomato ?
+2. Are there any countries where Zomato has a particularly strong or weak presence based on the number of restaurants?
+3. What are the top 10 most popular cuisines offered across all restaurants in the dataset?
+4. Which cuisines are predominantly offered by restaurants that also offer online delivery?
+5. What is the average cost for two people across all restaurants?
+6. What percentage of restaurants offer table booking versus online delivery?
+7. What is the average aggregate rating for all restaurants?
+8. Are there particular localities that have a higher concentration of highly-rated restaurants?
+9. Which currencies are most commonly used across the restaurants in the dataset?
+10. What percentage of restaurants offer switch to order menu?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# - Based on the report Insights, here are the results:
+![Zomato -Excel-Dashboard-Analysis](Zomato Picture1.png)
