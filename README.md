@@ -5,3 +5,12 @@ This project focuses on the global presence of Zomato and the availability of it
 ![Zomato -Excel-Dashboard-Analysis](Zomato-Bans-AI.webp)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#- This Project Includes:
+- **Identifying the problem:** - I first understood the data and its various variables using my analytical skills.
+- **Data Cleaning and Processing:** Converted the data into a table with filters, deleted any duplicate entries, changed data type, separated columns using the text-to-column approach, and utilized VLOOKUP.
+- **Performing Descriptive Analysis:** Inserted many useful Pivot tables from the processed data and generated KPIs from them.
+- **Data Visualization:** Constructed several major insights to extract vital information from a Pivot Chart.
+- **Enhanced Formatting:** Changed the format of the charts using Format Painter.
+- **Dashboard Creation:** I created a meaningful dashboard by combining all of the necessary charts and incorporating additional features like as Slicers, KPI and Insights.
