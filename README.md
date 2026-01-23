@@ -35,4 +35,5 @@ This project focuses on the global presence of Zomato and the availability of it
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # - Based on the report Insights, here are the results:
+
 ![Zomato -Excel-Dashboard-Analysis](Zomato Picture1.png)
