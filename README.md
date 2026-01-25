@@ -24,8 +24,8 @@ This project focuses on the global presence of Zomato and the availability of it
 
 1. Which cities have the most restaurants listed on Zomato ?
 2. Are there any countries where Zomato has a particularly strong or weak presence based on the number of restaurants?
-3. What are the top 10 most popular cuisines offered across all restaurants in the dataset?
-4. Which cuisines are predominantly offered by restaurants that also offer online delivery?
+3. Which cuisines are predominantly offered by restaurants that also offer online delivery?
+4. What are the top 10 most popular cuisines offered across all restaurants in the dataset?
 5. What is the average cost for two people across all restaurants?
 6. What percentage of restaurants offer table booking versus online delivery?
 7. What is the average aggregate rating for all restaurants?
@@ -52,6 +52,42 @@ This project focuses on the global presence of Zomato and the availability of it
    •	Philippines follows with 7%.
 
    •	Brazil and New Zealand each hold 1%.
+   
+   •	Australia, South Africa, and Turkey show 0%, indicating negligible or no representation.
 
 ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture2.png)
 
+3. Considering the popularity of swift-service formats and the strong desire for convenience, Fast Food restaurants are the most likely to provide online delivery.
+   
+   •	Fast Food – Highest count
+   
+   •	Bakery and Chinese, Thai - Large Online Delivery Presence
+   
+   •	North Indian - Appears multiple times, possibly due to inconsistent labelling
+
+
+
+4. North Indian Cuisine significantly influences the offerings on Zomato, either as standalone options or alongside Chinese and Mughlai dishes.
+    The most frequently offered cuisines are:
+   
+   • North Indian – 27%
+   
+   • North Indian + Chinese – 21%
+   
+   • Chinese – 15%
+   
+   • Fast Food – 10%
+   
+   • North Indian + Mughlai – 10%
+   
+   • Cafe – 9%
+   
+   •	Bakery – 8%
+   
+   • North Indian + Mughlai + Chinese – 6%
+   
+   • Bakery (variant) – 5%
+   
+   • Bakery + Desserts – 4%
+
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture3.png)
