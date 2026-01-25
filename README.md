@@ -173,7 +173,7 @@ This project focuses on the global presence of Zomato and the availability of it
 The main objective of this project was to gain insights into Zomato’s network, business patterns, and market connections while also developing practical Excel skills. It involved real-world data cleaning, exploratory data analysis, and dashboard creation to uncover meaningful insights and improve understanding of how data analysis works in practice.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Author: 
+# - Author: 
 
 • @pradhansnehashish5-dev
 
