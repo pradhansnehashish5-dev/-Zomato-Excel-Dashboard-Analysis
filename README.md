@@ -5,7 +5,7 @@ This project focuses on the global presence of Zomato and the availability of it
 ![Zomato -Excel-Dashboard-Analysis](Zomato-Bans-AI.webp)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##-  **This Project Includes:**
+## -  **This Project Includes:**
 
 - **Identifying the problem:** - I first understood the data and its various variables using my analytical skills.
 - **Data Cleaning and Processing:** Converted the data into a table with filters, deleted any duplicate entries, changed data type, separated columns using the text-to-column approach, and utilized VLOOKUP.
@@ -14,7 +14,7 @@ This project focuses on the global presence of Zomato and the availability of it
 - **Enhanced Formatting:** Changed the format of the charts using Format Painter.
 - **Dashboard Creation:** I created a meaningful dashboard by combining all of the necessary charts and incorporating additional features like as Slicers, KPI and Insights.
 
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  # - Project KPI:
  In this Project, I have calculated the total numbers of worldwide restaurant as KPI, i.e. 9551 out of which India has the maximum number of restaurants with 149k votes and the presenece in 15 votes.
 
