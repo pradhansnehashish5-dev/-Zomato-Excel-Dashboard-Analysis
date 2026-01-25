@@ -35,12 +35,23 @@ This project focuses on the global presence of Zomato and the availability of it
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # - Based on the report Insights, here are the results:
-The city-wise distribution of Zomato restaurant listings suggests a high prevalence in metropolitan areas. 
+1. The city-wise distribution of Zomato restaurant listings suggests a high prevalence in metropolitan areas. 
 
-•	New Delhi has the highest number of restaurants (5,473).
+   •	New Delhi has the highest number of restaurants (5,473).
 
-•	Gurgaon (1,118) and Noida (1,080) follow as secondary hubs.
+   •	Gurgaon (1,118) and Noida (1,080) follow as secondary hubs.
 
-•	Other cities like Lucknow, Guwahati, Ghaziabad, Faridabad, Bhubaneswar, Amritsar, and Ahmedabad have very few listings (around 21–25 each).
+   •	Other cities like Lucknow, Guwahati, Ghaziabad, Faridabad, Bhubaneswar, Amritsar, and Ahmedabad have very few listings (around 21–25 each).
 
 ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture1.png)
+
+2. Zomato's restaurant network focuses largely on India, reflecting its birthplace and major market.
+   
+   •	India dominates with 91% of all restaurant listings.
+
+   •	Philippines follows with 7%.
+
+   •	Brazil and New Zealand each hold 1%.
+
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture2.png)
+
