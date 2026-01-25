@@ -65,7 +65,7 @@ This project focuses on the global presence of Zomato and the availability of it
    
    •	North Indian - Appears multiple times, possibly due to inconsistent labelling
 
-
+![-Zomato-Excel-Dashboard-Analysis](Z-matoPicture3_1.png)
 
 4. North Indian Cuisine significantly influences the offerings on Zomato, either as standalone options or alongside Chinese and Mughlai dishes.
     The most frequently offered cuisines are:
@@ -91,3 +91,88 @@ This project focuses on the global presence of Zomato and the availability of it
    • Bakery + Desserts – 4%
 
 ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture3.png)
+
+5. A premium-dining skew can be seen in the dataset.
+   
+   •	Satoo - Hotel and Skye are the most expensive, each at ₹800,000.
+   
+   •	Union Deli and Zenbu are the most affordable, each at ₹200,000.
+   
+   •	Most restaurants fall between ₹250,000–₹450,000, suggesting a mid-to-premium pricing tier
+ 
+ ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture4.png)
+
+ 6. Nearly 70% of the restaurants do not provide online delivery or table reservations, indicating a high concentration of conventional dine-in restaurants or smaller vendors who have not yet incorporated   digital services. Online delivery is somewhat more popular than table reservations among the remaining 30%, suggesting a move toward convenience-driven dining experiences.
+    
+    •	~70% of restaurants offer neither table booking nor online delivery.
+    
+    •	The remaining ~30% are split across:
+    
+        • Yes Table booking + No Online delivery
+    
+        •	Yes Table booking + Yes Online delivery
+    
+        •	No Table booking + Yes Online delivery
+    
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture5.png)
+
+7. The Zomato Restaurant data reflects No solitary restaurant tops the rating distribution in the dataset, which shows a collection of highly regarded eateries.
+   
+   The chart compares ratings for four restaurants:
+   
+   •	Atlanta Highway Seafood Market
+   
+   •	Bao
+   
+   •	Braseiro da Gívea
+   
+   •	CakeBee
+
+   ![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture6.png)
+
+8. According to the data, Aminabad and the group it is linked with have a far larger percentage of highly rated restaurants - 34 % of the average rating overall.
+   
+   The legend identifies key localities:
+   
+   •	Aminabad
+   
+   •	Barwa Towers, Al Sadd
+   
+   •	Beak Street, Soho
+   
+   •	Bebek
+
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture7.png)  
+  
+  9. According to the statistics, multinational or multi-regional businesses like Domino's, McDonald's, and Subway are linked to a greater variety of currencies.
+      
+     From the chart:
+     
+       •	Cafe Coffee Day and Domino’s Pizza show the highest currency counts, suggesting they operate in multiple regions or have diverse pricing formats.
+     
+       •	Subway, Green Chick Chop, and McDonald’s follow closely, indicating broad geographic presence.
+     
+       •	Restaurants like Bikanervala, Baskin Robbins, and Barbeque Nation show lower counts, possibly reflecting more localized operations.
+
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture8.png)
+
+   10. According to the research, well-known quick-service restaurants like Domino's and Subway encourage the most interaction with the order menu, most likely as a result of their robust delivery networks and online visibility.
+       
+       From the chart:
+       
+        •	Restaurants like Domino’s Pizza, Subway, and Cafe Coffee Day show the highest counts of switches to the order menu.
+       
+        •	All listed restaurants have non-zero bars, suggesting they do offer the switch-to-order feature.
+
+![-Zomato-Excel-Dashboard-Analysis](Zomato_Picture9.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# - Conclusion 
+   This project helps analyze Zomato’s market presence and business reach. The analysis shows that although Zomato operates in 15 countries, its strongest market is India, where it has expanded extensively. A majority of top restaurants    and food categories are concentrated in Indian cities, especially Bangalore, Gurgaon, and Delhi, which act as its primary business hubs. The project highlights that by strengthening advanced services and operational strategies, Zomato has the potential to further expand into global markets.
+
+The main objective of this project was to gain insights into Zomato’s network, business patterns, and market connections while also developing practical Excel skills. It involved real-world data cleaning, exploratory data analysis, and dashboard creation to uncover meaningful insights and improve understanding of how data analysis works in practice.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Author: 
+• @pradhansnehashish5-dev
+• Snehashish Pradhan - Data Science Analyst
