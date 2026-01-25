@@ -174,5 +174,7 @@ The main objective of this project was to gain insights into Zomato’s network,
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Author: 
+
 • @pradhansnehashish5-dev
+
 • Snehashish Pradhan - Data Science Analyst
