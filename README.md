@@ -5,7 +5,7 @@ This project focuses on the global presence of Zomato and the availability of it
 ![Zomato -Excel-Dashboard-Analysis](Zomato-Bans-AI.webp)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#-  **This Project Includes:**
+##-  **This Project Includes:**
 
 - **Identifying the problem:** - I first understood the data and its various variables using my analytical skills.
 - **Data Cleaning and Processing:** Converted the data into a table with filters, deleted any duplicate entries, changed data type, separated columns using the text-to-column approach, and utilized VLOOKUP.
