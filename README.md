@@ -7,7 +7,8 @@ This project focuses on the global presence of Zomato and the availability of it
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#-  This Project Includes:
+#-  **This Project Includes:**
+
 - **Identifying the problem:** - I first understood the data and its various variables using my analytical skills.
 - **Data Cleaning and Processing:** Converted the data into a table with filters, deleted any duplicate entries, changed data type, separated columns using the text-to-column approach, and utilized VLOOKUP.
 - **Performing Descriptive Analysis:** Inserted many useful Pivot tables from the processed data and generated KPIs from them.
