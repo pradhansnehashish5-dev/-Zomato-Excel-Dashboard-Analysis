@@ -18,6 +18,8 @@ This project focuses on the global presence of Zomato and the availability of it
  # - **Project KPI:**
  In this Project, I have calculated the total numbers of worldwide restaurant as KPI, i.e. 9551 out of which India has the maximum number of restaurants with 149k votes and the presenece in 15 votes.
 
+ ![Zomato -Excel-Dashboard-Analysis](Zomato_Analysis.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # - **Important Highlights derived from the project:**
 
