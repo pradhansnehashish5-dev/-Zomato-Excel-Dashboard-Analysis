@@ -176,4 +176,4 @@ This project focuses on the global presence of Zomato and the availability of it
 
 • @pradhansnehashish5-dev
 
-• Snehashish Pradhan - Data Science Analyst
+• Snehashish Pradhan - Data Analyst
